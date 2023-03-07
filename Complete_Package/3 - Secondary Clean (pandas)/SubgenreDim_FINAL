@@ -1,0 +1,19 @@
+Genre,Subgenre,Subgenre_PK
+2,East Coast Hip-Hop,1
+2,Experimental Hip-Hop,2
+2,Pop Trap,3
+2,Psychadelic Hip-Hop,4
+2,Rap,5
+2,Southern Hip-Hop,6
+2,Trap,7
+2,Vapor Trap,8
+4,Electropop,9
+4,Indie Pop,10
+5,Alternative R&B,11
+5,Contemporary R&B,12
+5,Experimental R&B,13
+5,Indie R&B,14
+5,Trap Soul,15
+1,Alternative Rock,16
+1,Psychadelic Rock,17
+3,Alternative Soul,18

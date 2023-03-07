@@ -1,0 +1,2 @@
+This final portion of the project is where I completed the visualization for the project. After importing the csv files in
+this folder to Power BI, I modeled the data, created calculated columns & DAX measures, and finished my dashboard. The finished dashboard can be viewed on my website, which is where you probably found this github repo link.
